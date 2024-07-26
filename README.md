@@ -19,6 +19,8 @@ Implementation of paper - [YOLOv9: Learning What You Want to Learn Using Program
 
 MS COCO
 
+Red on [Average Precision](https://medium.com/towards-data-science/breaking-down-mean-average-precision-map-ae462f623a52)
+
 | Model | Test Size | AP<sup>val</sup> | AP<sub>50</sub><sup>val</sup> | AP<sub>75</sub><sup>val</sup> | Param. | FLOPs |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | [**YOLOv9-T**](https://github.com/WongKinYiu/yolov9/releases/download/v0.1/yolov9-t-converted.pt) | 640 | **38.3%** | **53.1%** | **41.3%** | **2.0M** | **7.7G** |
