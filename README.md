@@ -19,7 +19,7 @@ Implementation of paper - [YOLOv9: Learning What You Want to Learn Using Program
 
 MS COCO
 
-Red on [Average Precision](https://medium.com/towards-data-science/breaking-down-mean-average-precision-map-ae462f623a52)
+To understand this performance table better, read on [Average Precision](https://medium.com/towards-data-science/breaking-down-mean-average-precision-map-ae462f623a52)
 
 | Model | Test Size | AP<sup>val</sup> | AP<sub>50</sub><sup>val</sup> | AP<sub>75</sub><sup>val</sup> | Param. | FLOPs |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
