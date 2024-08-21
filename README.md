@@ -263,6 +263,9 @@ python train.py --workers 8 --device 0 --batch 32 --data data/coco.yaml --img 64
 | [**GELAN-C-DET**](https://github.com/WongKinYiu/yolov9/releases/download/v0.1/gelan-c-det.pt) | 640 | 25.3M | 102.1G |**52.3%** |
 | [**YOLOv9-C-DET**]() | 640 | 25.3M | 102.1G | **53.0%** |
 
+### Semantic vs. Instance vs. Panoptic Segmentation
+To understand the differences between the three, read [this](https://pyimagesearch.com/2022/06/29/semantic-vs-instance-vs-panoptic-segmentation/)
+
 #### Instance Segmentation
 
 [`gelan-c-seg.pt`](https://github.com/WongKinYiu/yolov9/releases/download/v0.1/gelan-c-seg.pt)
